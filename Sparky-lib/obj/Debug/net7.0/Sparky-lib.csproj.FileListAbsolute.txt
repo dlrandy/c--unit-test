@@ -1,0 +1,11 @@
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/bin/Debug/net7.0/Sparky-lib.deps.json
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/bin/Debug/net7.0/Sparky-lib.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/bin/Debug/net7.0/Sparky-lib.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/obj/Debug/net7.0/Sparky-lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/obj/Debug/net7.0/Sparky-lib.AssemblyInfoInputs.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/obj/Debug/net7.0/Sparky-lib.AssemblyInfo.cs
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/obj/Debug/net7.0/Sparky-lib.csproj.CoreCompileInputs.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/obj/Debug/net7.0/Sparky-lib.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/obj/Debug/net7.0/refint/Sparky-lib.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/obj/Debug/net7.0/Sparky-lib.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Sparky-lib/obj/Debug/net7.0/ref/Sparky-lib.dll
