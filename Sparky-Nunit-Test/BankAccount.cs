@@ -20,6 +20,9 @@ namespace Sparky_Nunit_Test
         public bool Deposit(int amount)
         {
             _logBook.Message("Deposit invoked");
+            _logBook.Message("Test");
+            _logBook.LogSeverity = 101;
+            var temp = _logBook.LogSeverity;
             balance += amount;
             return true;
         }
@@ -29,10 +32,11 @@ namespace Sparky_Nunit_Test
 
             if (amount <= balance)
             {
+                _logBook.LogToDb($"Withdrawal Amount: {amount.ToString()}");
                 balance -= amount;
-                return true;
+                return _logBook.LogBalanceAfterWithdrawal(balance);
             }
-            return false;
+            return _logBook.LogBalanceAfterWithdrawal(balance - amount);
         }
 
         public int GetBalance() {
