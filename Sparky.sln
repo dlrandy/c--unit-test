@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sparky-MS-Test", "Sparky-MS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sparky-Nunit-Test", "Sparky-Nunit-Test\Sparky-Nunit-Test.csproj", "{50DA8CFA-0E99-432F-8211-56129FC1F585}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sparky-XUnit-Test", "Sparky-XUnit-Test\Sparky-XUnit-Test.csproj", "{F4A8F946-32F3-494E-90A8-EC8EEA695468}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{50DA8CFA-0E99-432F-8211-56129FC1F585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50DA8CFA-0E99-432F-8211-56129FC1F585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50DA8CFA-0E99-432F-8211-56129FC1F585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A8F946-32F3-494E-90A8-EC8EEA695468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A8F946-32F3-494E-90A8-EC8EEA695468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A8F946-32F3-494E-90A8-EC8EEA695468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A8F946-32F3-494E-90A8-EC8EEA695468}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
