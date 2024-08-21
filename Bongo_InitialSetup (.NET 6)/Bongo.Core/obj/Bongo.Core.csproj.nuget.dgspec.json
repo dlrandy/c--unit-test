@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/Bongo.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/Bongo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/Bongo.Core.csproj",
+        "projectName": "Bongo.Core",
+        "projectPath": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/Bongo.Core.csproj",
+        "packagesPath": "/Users/xingjiabin/.nuget/packages/",
+        "outputPath": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xingjiabin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/Bongo.DataAccess.csproj": {
+                "projectPath": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/Bongo.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/Bongo.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/Bongo.DataAccess.csproj",
+        "projectName": "Bongo.DataAccess",
+        "projectPath": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/Bongo.DataAccess.csproj",
+        "packagesPath": "/Users/xingjiabin/.nuget/packages/",
+        "outputPath": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xingjiabin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Models/Bongo.Models.csproj": {
+                "projectPath": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Models/Bongo.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Models/Bongo.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Models/Bongo.Models.csproj",
+        "projectName": "Bongo.Models",
+        "projectPath": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Models/Bongo.Models.csproj",
+        "packagesPath": "/Users/xingjiabin/.nuget/packages/",
+        "outputPath": "/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/xingjiabin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.406/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -11,6 +11,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sparky-Nunit-Test", "Sparky
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sparky-XUnit-Test", "Sparky-XUnit-Test\Sparky-XUnit-Test.csproj", "{F4A8F946-32F3-494E-90A8-EC8EEA695468}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicFundation", "BasicFundation", "{F3CA8B66-B101-4BBD-B3F8-149B9632ACA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bongo", "Bongo", "{3AC74FAD-8DA5-422E-9AFF-DF5B69B9F35C}"
+	ProjectSection(SolutionItems) = preProject
+		Bongo_InitialSetup %28.NET 6%29\readme.md = Bongo_InitialSetup %28.NET 6%29\readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Web", "Bongo_InitialSetup (.NET 6)\Bongo.Web\Bongo.Web.csproj", "{F0B4BDCB-6D10-4B30-9CF1-4D42B461F5F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Models", "Bongo_InitialSetup (.NET 6)\Bongo.Models\Bongo.Models.csproj", "{48FF3248-FFFA-4EF0-9A37-5A1F4B361312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.DataAccess", "Bongo_InitialSetup (.NET 6)\Bongo.DataAccess\Bongo.DataAccess.csproj", "{693EEA2A-5AAF-4122-B540-86AB3248FF23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Core", "Bongo_InitialSetup (.NET 6)\Bongo.Core\Bongo.Core.csproj", "{A35DAA42-BB60-4517-8F8A-1770E33238C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,11 +48,37 @@ Global
 		{F4A8F946-32F3-494E-90A8-EC8EEA695468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4A8F946-32F3-494E-90A8-EC8EEA695468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4A8F946-32F3-494E-90A8-EC8EEA695468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B4BDCB-6D10-4B30-9CF1-4D42B461F5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B4BDCB-6D10-4B30-9CF1-4D42B461F5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B4BDCB-6D10-4B30-9CF1-4D42B461F5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B4BDCB-6D10-4B30-9CF1-4D42B461F5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48FF3248-FFFA-4EF0-9A37-5A1F4B361312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48FF3248-FFFA-4EF0-9A37-5A1F4B361312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48FF3248-FFFA-4EF0-9A37-5A1F4B361312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48FF3248-FFFA-4EF0-9A37-5A1F4B361312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693EEA2A-5AAF-4122-B540-86AB3248FF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693EEA2A-5AAF-4122-B540-86AB3248FF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693EEA2A-5AAF-4122-B540-86AB3248FF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693EEA2A-5AAF-4122-B540-86AB3248FF23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35DAA42-BB60-4517-8F8A-1770E33238C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35DAA42-BB60-4517-8F8A-1770E33238C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35DAA42-BB60-4517-8F8A-1770E33238C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35DAA42-BB60-4517-8F8A-1770E33238C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {63631567-9E07-4530-9B29-87D14241526B}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB2D0875-2DB2-477B-B7EA-AA2707B2BBF8} = {F3CA8B66-B101-4BBD-B3F8-149B9632ACA5}
+		{683928EC-0BC2-46CD-B4D5-1C5C5F39A539} = {F3CA8B66-B101-4BBD-B3F8-149B9632ACA5}
+		{50DA8CFA-0E99-432F-8211-56129FC1F585} = {F3CA8B66-B101-4BBD-B3F8-149B9632ACA5}
+		{F4A8F946-32F3-494E-90A8-EC8EEA695468} = {F3CA8B66-B101-4BBD-B3F8-149B9632ACA5}
+		{F0B4BDCB-6D10-4B30-9CF1-4D42B461F5F4} = {3AC74FAD-8DA5-422E-9AFF-DF5B69B9F35C}
+		{48FF3248-FFFA-4EF0-9A37-5A1F4B361312} = {3AC74FAD-8DA5-422E-9AFF-DF5B69B9F35C}
+		{693EEA2A-5AAF-4122-B540-86AB3248FF23} = {3AC74FAD-8DA5-422E-9AFF-DF5B69B9F35C}
+		{A35DAA42-BB60-4517-8F8A-1770E33238C1} = {3AC74FAD-8DA5-422E-9AFF-DF5B69B9F35C}
 	EndGlobalSection
 EndGlobal

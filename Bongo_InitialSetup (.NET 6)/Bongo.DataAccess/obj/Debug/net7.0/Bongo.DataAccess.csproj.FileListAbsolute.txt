@@ -1,0 +1,17 @@
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/bin/Debug/net7.0/Bongo.DataAccess.deps.json
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/bin/Debug/net7.0/Bongo.DataAccess.runtimeconfig.json
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/bin/Debug/net7.0/Bongo.DataAccess.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/bin/Debug/net7.0/Bongo.DataAccess.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/bin/Debug/net7.0/Bongo.Models.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/bin/Debug/net7.0/Bongo.Models.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.csproj.AssemblyReference.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.AssemblyInfoInputs.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.AssemblyInfo.cs
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.csproj.CoreCompileInputs.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.csproj.CopyComplete
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/refint/Bongo.DataAccess.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/Bongo.DataAccess.genruntimeconfig.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.DataAccess/obj/Debug/net7.0/ref/Bongo.DataAccess.dll

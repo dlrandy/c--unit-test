@@ -1,0 +1,17 @@
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/bin/Debug/net7.0/Bongo.Core.deps.json
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/bin/Debug/net7.0/Bongo.Core.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/bin/Debug/net7.0/Bongo.Core.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/bin/Debug/net7.0/Bongo.DataAccess.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/bin/Debug/net7.0/Bongo.Models.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/bin/Debug/net7.0/Bongo.DataAccess.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/bin/Debug/net7.0/Bongo.Models.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/Bongo.Core.csproj.AssemblyReference.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/Bongo.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/Bongo.Core.AssemblyInfoInputs.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/Bongo.Core.AssemblyInfo.cs
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/Bongo.Core.csproj.CoreCompileInputs.cache
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/Bongo.Core.csproj.CopyComplete
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/Bongo.Core.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/refint/Bongo.Core.dll
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/Bongo.Core.pdb
+/Users/xingjiabin/Documents/dev_env/Sparky/Bongo_InitialSetup (.NET 6)/Bongo.Core/obj/Debug/net7.0/ref/Bongo.Core.dll
